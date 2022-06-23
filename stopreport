@@ -1,0 +1,73 @@
+[
+  {
+    "route": "0",
+    "direction": 0,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭MCT",
+    "ChiTime": 5,
+    "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+   {
+    "route": "201",
+    "direction": 0,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭MCT",
+    "ChiTime": 5,
+    "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://9998862837",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+     {
+    "route": "201",
+    "direction": 0,
+    "NextStop": 2,
+    "Chi": "激安山莊二期",
+    "ChiTime": 5,
+    "Eng": "DONKI GARDEN\nPHASE 2",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://9998863337",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+      {
+    "route": "201",
+    "direction": 0,
+    "NextStop": 3,
+    "Chi": "激安殿堂",
+    "ChiTime": 5,
+    "Eng": "DON DON DONKI",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://9998896260",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+      {
+    "route": "201",
+    "direction": 0,
+    "NextStop": 4,
+    "Chi": "激安山莊二期",
+    "ChiTime": 5,
+    "Eng": "DONKI GARDEN\nPHASE 2",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://9998863337",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+        {
+    "route": "201",
+    "direction": 0,
+    "NextStop": 5,
+    "Chi": "激安山莊",
+    "ChiTime": 5,
+    "Eng": "DONKI GARDEN\nTERMRINUS",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://9999132115",
+    "TimePosition": 0,
+    "Notification": 0
+  },
